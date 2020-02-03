@@ -1,4 +1,4 @@
-# Leaky-integrate-and-fire
+# Leaky integrate-and-fire - LIF (1907)
 ## Prerequisites
 * Python programming language
 ## Keywords
